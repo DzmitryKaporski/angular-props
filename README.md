@@ -1,6 +1,6 @@
 # Task: Pass properties.
 
-# Deploy: [angular-output](https://angular-output.surge.sh/)
+# Deploy: [angular-props](angular-props.surge.sh)
 
 # AngularProps
 
